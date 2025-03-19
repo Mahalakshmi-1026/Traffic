@@ -1,0 +1,72 @@
+body{
+    background-color:lightblue;
+    text-align: center;
+}
+.stop{
+    text-align: center;
+    width: 150px;
+    height: 150px;
+    background-color: lightpink;
+    border-radius: 50%;
+    margin-left: 700px;
+    margin-bottom: 20px;
+}
+.ready{
+    text-align: center;
+    width: 150px;
+    height: 150px;
+    background-color: lightpink;
+    border-radius: 50%;
+    position: relative;
+    margin-left: 700px;
+    margin-bottom: 20px;
+}
+.go{
+    text-align: center;
+    width: 150px;
+    height: 150px;
+    background-color: lightpink;
+    border-radius: 50%;
+    position: relative;
+    margin-left: 700px;
+    margin-bottom: 20px;
+}
+#button1{
+    text-align: center;
+    height: 50px;
+    width: 90px;
+    font-size: large;
+    background-color: red;
+    color: white;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+#button2{
+    text-align: center;
+    height: 50px;
+    width: 90px;
+    font-size: large;
+    background-color: yellow;
+    color: rgb(27,22,22);
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+#button3{
+    text-align: center;
+    height: 50px;
+    width: 90px;
+    font-size: large;
+    background-color: darkgreen;
+    color: rgb(14,11,11);
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+#button1:hover{
+    cursor: pointer;
+}
+#button2:hover{
+    cursor: pointer;
+}
+#button3:hover{
+    cursor: pointer;
+}
